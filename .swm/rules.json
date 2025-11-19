@@ -1,0 +1,21 @@
+{
+    "rules": {
+        "37035533-b007-42dd-ad15-e6ce27d66386": {
+            "name": "UserEntity ",
+            "rule": {
+                "type": "regex",
+                "regex": "\\bUserentity\\b",
+                "ignoreCase": true
+            },
+            "actions": {
+                "ide": {
+                    "doc_id": "ut5pcfel",
+                    "message": "Overview of user entity"
+                }
+            }
+        }
+    },
+    "view_order": [
+        "37035533-b007-42dd-ad15-e6ce27d66386"
+    ]
+}
